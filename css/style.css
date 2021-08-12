@@ -1,0 +1,389 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.canle2ben {
+    padding: 0 10%;
+}
+
+.nav {
+    background-color: #ffffff;
+    height: 100px;
+    color: #8a6565;
+}
+
+.nav .logo {
+    float: left;
+    padding-top: 30px;
+}
+
+.nav ul {
+    float: right;
+    padding-top: 40px;
+}
+
+.nav ul li {
+    display: inline;
+    padding: 0 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.main__section1 {
+    background-image: url(../img/slider-2.jpg);
+    height: 665px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__section1 .gioithieu1 {
+    text-align: center;
+}
+
+.main__section1 hr {
+    width: 60px;
+    border: 1px solid #b99470;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main__section1 .gioithieu1 h1 {
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.main__section1 .gioithieu1 p {
+    font-size: 18px;
+    margin: 30px;
+    line-height: 35px;
+}
+
+.main__section1 .btn button {
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    width: 200px;
+    padding: 15px 0;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #b99470;
+    background: transparent;
+}
+
+.main__section2 {
+    height: 490px;
+}
+
+.main__section2 .bentrai {
+    text-align: center;
+    float: left;
+    width: 50%;
+    padding: 65px 10px 0 0;
+}
+
+.main__section2 .bentrai h1 {
+    margin: 0 0 30px 0;
+}
+
+.main__section2 .bentrai p {
+    padding-top: 30px;
+    line-height: 30px;
+}
+
+.main__section2 .bentrai hr {
+    margin: 0 0 30px 0;
+    width: 60px;
+    border: 1px solid #b99470;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main__section2 .btn1 button {
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    width: 200px;
+    padding: 15px 0;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #b99470;
+    background: transparent;
+}
+
+.benphai img {
+    height: 360px;
+    width: 500pxx;
+    padding-top: 65px;
+}
+
+.main__section3 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 750px;
+}
+
+.main__section3 .info h1 {
+    padding: 60px 0 20px 0;
+}
+
+.main__section3 .info p {
+    padding-bottom: 20px;
+    line-height: 30px;
+    margin: 0 15%;
+}
+
+.main__section3 hr {
+    width: 60px;
+    border: 1px solid #b99470;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.main__section3 .itemanh ul h2 {
+    margin: 10px;
+}
+
+.main__section3 .itemanh ul li {
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.main__section3 .itemanh {
+    background-size: cover;
+    background-position: center;
+    float: left;
+    margin-right: 30px;
+    width: 30%;
+    background-color: white;
+    color: #8a6565;
+    height: 430px;
+}
+
+.main__section3 .itemanh img {
+    width: 365px;
+    height: 230px;
+}
+
+.main__section4 {
+    height: 450px;
+    padding-top: 50px;
+}
+
+.main__section4 .bentrai1 {
+    text-align: center;
+    float: left;
+    width: 50%;
+    padding-right: 30px;
+}
+
+.main__section4 .bentrai1 .info2 img {
+    border-radius: 50px;
+}
+
+.main__section4 .bentrai1 .info2 {
+    border: 1px solid #8a6565;
+}
+
+.main__section4 .bentrai1 .info2 p {
+    padding: 35px;
+}
+
+.main__section4 .benphai1 {
+    text-align: center;
+}
+
+.main__section4 .benphai1 .info2 ul li {
+    display: flex;
+    padding-bottom: 30px;
+    padding-top: 25px;
+    border-top: 1px solid #8a6565;
+}
+
+.main__section4 hr {
+    width: 60px;
+    border: 1px solid #b99470;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.main__section5 {
+    background-image: url(../img/02.jpg);
+    height: 430px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__section5 .info3 h1 {
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+
+.main__section5 .info3 p {
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+
+.main__section5 .info3 hr {
+    width: 60px;
+    border: 1px solid #b99470;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main__section6 {
+    height: 500px;
+    text-align: center;
+}
+
+.main__section6 h1 {
+    padding: 60px 0 20px 0;
+}
+
+.main__section6 h3 {
+    padding: 0 5%;
+    padding-bottom: 20px;
+}
+
+.main__section6 h5 {
+    margin-right: 50%;
+}
+
+.main__section6 hr {
+    width: 60px;
+    border: 1px solid #b99470;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.main__section6 .sec6 hr {
+    width: 260px;
+}
+
+.main__section6 .sec6 img {
+    width: 260px;
+    height: 160px;
+    background-position: center;
+    padding-bottom: 20px;
+}
+
+.main__section6 .sec6 {
+    float: left;
+    width: 25%;
+}
+
+.main__section7 {
+    height: 300px;
+    background-color: black;
+    color: white;
+}
+
+.main__section7 .sec7 {
+    width: 30%;
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.main__section7 .ngoaitrai p {
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.main__section7 .ngoaitrai .btn2 button {
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    width: 43px;
+    height: 43px;
+    border-radius: 50px;
+    font-weight: bold;
+    border: 2px solid #b99470;
+    background: transparent;
+    margin-right: 10px;
+}
+
+.main__section7 .ngoaiphai {
+    float: right;
+}
+
+.main__section7 .ngoaiphai p {
+    padding-top: 15px;
+}
+
+.main__section7 h3 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.main__section7 .giua ul li {
+    display: flex;
+    border-bottom: 1px solid #8a6565;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.main__section7 .giua {
+    padding-left: 50px;
+}
+
+.main__section7 input {
+    height: 30px;
+    width: 300px;
+    margin: 10px 0;
+}
+
+.main__section7 .btn3 button {
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    width: 200px;
+    padding: 15px 0;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #b99470;
+    background: transparent;
+}
+
+.main__section7 ul li i {
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #8a6565;
+    padding-top: 30px;
+    color: white;
+}
+
+.footer .cuoi {
+    float: left;
+}
+
+.footer .final ul li {
+    display: inline;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.footer ul {
+    float: right;
+}
